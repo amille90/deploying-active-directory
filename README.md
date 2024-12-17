@@ -1,15 +1,9 @@
-# deploying-active-directory
-
-
-
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Delpoying Active Directory</h1>
+This tutorial goes over installing active directory domain services in turn to gain access to and manage accounts on Active Directory Users and Computers console.<br />
 
 
 <h2>Video Demonstration</h2>
