@@ -3,7 +3,7 @@
 </p>
 
 <h1>Delpoying Active Directory</h1>
-This tutorial goes over installing active directory domain services in turn to gain access to and manage accounts on Active Directory Users and Computers console.<br />
+This tutorial goes over installing Active Directory Domain Services in turn to gain access to and manage accounts on Active Directory Users and Computers console.<br />
 
 
 <h2>Video Demonstration</h2>
